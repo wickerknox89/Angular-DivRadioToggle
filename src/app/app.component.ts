@@ -12,5 +12,4 @@ export class AppComponent {
   bgColorGreen = "green";
   data : number = -1;
   options : boolean = false;
-  type:number=2;
 }
