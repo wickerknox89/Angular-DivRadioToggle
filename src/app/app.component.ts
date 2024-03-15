@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular-ToggleWithRadioDiv';
+
+  bgColorRed = "red";
+  bgColorGreen = "green";
+  data : number = -1;
+  options : boolean = false;
+  type:number=2;
 }
